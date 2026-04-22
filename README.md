@@ -133,6 +133,3 @@ README.md
 
 ---
 
-## 📜 License
-
-Free to use for educational purposes.
